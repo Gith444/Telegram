@@ -9,7 +9,7 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 # Ваш токен (замените на свой)
-TOKEN = "ВАШ_ТОКЕН_ОТ_BOTFATHER"
+TOKEN = "7786785840:AAGuRS08XditLJj6lLk8QyIvm3NYDZSmwOA"
 
 # Функция для старта бота
 def start(update: Update, context: CallbackContext):
