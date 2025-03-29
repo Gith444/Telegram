@@ -1,1 +1,9 @@
+# Игнорировать виртуальное окружение
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
+# Файлы Replit
+.replit
